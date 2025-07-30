@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrutak8
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning DSA with C
+- 🌱 I’m currently learning DSA with CPP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
